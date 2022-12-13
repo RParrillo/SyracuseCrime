@@ -1,0 +1,62 @@
+body {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D7D8C1;
+}
+
+.page-header {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 12px;
+	background-color:#E5E6D8;
+	font-family: 'Chivo Mono', monospace;
+	border-bottom: 12px solid #D7D8C1;
+
+}
+
+img {
+	width: 100%
+}
+
+.caption {
+	font-family: 'Chivo Mono', monospace;
+}
+
+.crimes {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 12px;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	background-color: #E5E6D8;
+}
+
+.story {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 4px solid white;
+	padding-left: 4px;
+	padding-right: 12px;
+	padding-bottom: 4px solid white;
+	font-family: 'Chivo Mono', monospace;
+	font-size: 20px;
+}
+
+.podcast {
+	padding-left: 4px;
+}
+.arrests {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 6px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	background-color: #E5E6D8
+}
